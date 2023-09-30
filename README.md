@@ -49,7 +49,7 @@ cucumber --init
 
 1. Clone this repo using this command:
 ```
-git clone https://github.com/dendyyp/task-5-quality-assurance.git
+git clone https://github.com/admvx02/task-5-quality-assurance.git
 ```
 2. Open this repo in your editor
 3. Open terminal in your editor
